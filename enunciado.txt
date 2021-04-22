@@ -1,0 +1,10 @@
+La consultora itnew los contrata para realizar una demo de un sistema, se pide:
+ x   1. Realizar el sistema con vue js versión 2.
+ x   2. Usar vuecli
+ x   3. Preparar un menú con header, body y footer, realizado con componentes.
+  x  El título y el autor deben se pasados por parámetros al componente
+ x   header y footer de página.
+  x  4. Preparar un componente dentro del componente body que contenga una
+ x   lista de productos (id, descripción y precio) con botones para agregar,
+  x  eliminar y modificar productos.
+    5. Extra: usar el mismo componente para agregar y modificar productos.
